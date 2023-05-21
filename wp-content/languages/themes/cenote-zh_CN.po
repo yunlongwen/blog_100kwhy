@@ -1,0 +1,1202 @@
+# Translation of Themes - Cenote in Chinese (China)
+# This file is distributed under the same license as the Themes - Cenote package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-03 07:12:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - Cenote\n"
+
+#. Description of the theme
+msgid "Cenote is beautifully designed clean WordPress blog theme. Easy to setup and has a nice set of features that make your site stand out. It is suitable for personal, fashion, food, travel, business, professional, niche and any kind of blogging sites. Comes with various demos for various purposes, which you can easily import with the help of ThemeGrill Demo Importer plugin."
+msgstr "Cenote 是一款设计漂亮，干净的 WordPress 博客的主题。主题易于配置功能丰富,可以使您的站点在众多网站中脱颖而出。适用于个人、时尚、食品、旅游、商业、专业、领域等任何类型的博客站点。在 ThemeGrill 演示导入插件的帮忙下，您可以非常轻松的导入主题自带各种类型站点的演示。"
+
+#. Theme Name of the theme
+#: inc/admin/class-cenote-theme-review-notice.php:75
+#: inc/admin/class-cenote-welcome-notice.php:54 inc/demo-config.php:25
+msgid "Cenote"
+msgstr "Cenote"
+
+#: inc/customizer/options/options-archive.php:52
+#: inc/customizer/options/options-single.php:41
+msgid "Makes the first letter of the content bigger"
+msgstr "使文章首字母更大"
+
+#: inc/customizer/options/options-header.php:80
+msgid "Email Address"
+msgstr "邮箱地址"
+
+#: inc/customizer/options/options-header.php:50
+msgid "Phone Number"
+msgstr "电话号码"
+
+#: inc/customizer/options/options-header.php:33
+msgid "Contact Info"
+msgstr "联系信息"
+
+#. Template Name of the theme
+msgid "Cover Style"
+msgstr "封面样式"
+
+#: template-parts/related/related-post.php:35
+msgid "Related Posts"
+msgstr "相关文章"
+
+#: template-parts/pagination/pagination.php:29
+msgid "Previous"
+msgstr "上一页"
+
+#: template-parts/pagination/pagination.php:28
+msgid "Next"
+msgstr "下一页"
+
+#: template-parts/pagination/pagination.php:17
+msgid "Posts Navigation"
+msgstr "文章导航"
+
+#: template-parts/footer/search-form.php:14
+msgid "Begin typing your search term above and press enter to search. Press ESC to cancel."
+msgstr "开始在上面输入您的搜索词，然后按回车进行搜索。按ESC取消。"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:52
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "继续阅读<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content-page.php:32
+#: template-parts/content-single-audio.php:48
+#: template-parts/content-single-cover.php:48
+#: template-parts/content-single-gallery.php:64
+#: template-parts/content-single-link.php:43
+#: template-parts/content-single-quote.php:21
+#: template-parts/content-single-video.php:48
+#: template-parts/content-single.php:54
+msgid "Pages:"
+msgstr "页面："
+
+#: template-parts/content-none.php:47
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "看来我们无法找到您所需要的东西，也许可以搜索帮助。"
+
+#: template-parts/content-none.php:40
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "对不起,但没有匹配您的搜索条件。请再次尝试一些不同的关键词。"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布您的第一篇文章吗? <a href=\"%1$s\">点击这里开始</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "没有发现"
+
+#: template-parts/content-audio.php:35 template-parts/content-gallery.php:53
+#: template-parts/content-link.php:28 template-parts/content-quote.php:29
+#: template-parts/content-search.php:34 template-parts/content-video.php:35
+#: template-parts/content.php:68
+msgid "Read More"
+msgstr "阅读更多"
+
+#: template-parts/author/author-box.php:47
+msgid "Posts created"
+msgstr "文章已创建"
+
+#: template-parts/author/author-box.php:40
+msgid "Website"
+msgstr "网站"
+
+#: single.php:23 template-parts/content-single-cover.php:63
+msgid "Next Article"
+msgstr "下一篇文章"
+
+#: single.php:22 template-parts/content-single-cover.php:62
+msgid "Previous Article"
+msgstr "上一篇文章"
+
+#. translators: %s: search query.
+#: search.php:23
+msgid "Search Results for: %s"
+msgstr "搜索结果：%s"
+
+#: inc/widgets/class-cenote-widget-recent-posts.php:133
+msgid "Display post date?"
+msgstr "显示文章日期?"
+
+#: inc/widgets/class-cenote-widget-recent-posts.php:127
+msgid "Number of posts to show:"
+msgstr "显示文章数量:"
+
+#: inc/widgets/class-cenote-widget-recent-posts.php:122
+msgid "Title:"
+msgstr "标题："
+
+#: inc/widgets/class-cenote-widget-recent-posts.php:75
+msgid "(no title)"
+msgstr "(没有标题)"
+
+#: inc/widgets/class-cenote-widget-recent-posts.php:40
+msgid "Recent Posts"
+msgstr "最近文章"
+
+#: inc/widgets/class-cenote-widget-recent-posts.php:24
+msgid "TG: Recent Posts"
+msgstr "TG：近期文章"
+
+#: inc/widgets/class-cenote-widget-recent-posts.php:21
+msgid "Shows recent posts with an image"
+msgstr "用一个图像显示最近文章"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:97 template-parts/content-page.php:47
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "编辑 <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: post title
+#: inc/template-tags.php:80
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "发表评论<span class=\"screen-reader-text\"> 在 %s</span>"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:70
+msgid "Tagged: %1$s"
+msgstr "标签： %1$s"
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:64
+msgid "Category: %1$s"
+msgstr "分类： %1$s"
+
+#: inc/template-functions.php:91
+msgid "Back To Top"
+msgstr "返回顶部"
+
+#: inc/meta-boxes.php:36
+msgid "Right Sidebar"
+msgstr "右侧边栏"
+
+#: inc/meta-boxes.php:35
+msgid "Left Sidebar"
+msgstr "左侧边栏"
+
+#: inc/meta-boxes.php:34
+msgid "Full Width"
+msgstr "通栏"
+
+#: inc/meta-boxes.php:12
+msgid "Choose Layout"
+msgstr "选择布局"
+
+#: inc/kirki/upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr "重要的升级通知:"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:220
+msgid "Ultra-Bold 900 Italic"
+msgstr "超粗 900 斜体"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:218
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:219
+msgid "Ultra-Bold 900"
+msgstr "超粗 900"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:217
+msgid "Extra-Bold 800 Italic"
+msgstr "最粗 800 斜体"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:215
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:216
+msgid "Extra-Bold 800"
+msgstr "最粗 800"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:214
+msgid "Bold 700 Italic"
+msgstr "粗 700 斜体"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:213
+msgid "Bold 700"
+msgstr "粗 700"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:212
+msgid "Semi-Bold 600 Italic"
+msgstr "半粗 600 斜体"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:210
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:211
+msgid "Semi-Bold 600"
+msgstr "半粗 600"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:209
+msgid "Medium 500 Italic"
+msgstr "中等 500 斜体"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:208
+msgid "Medium 500"
+msgstr "中等 500"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:207
+msgid "Normal 400 Italic"
+msgstr "正常 400 斜体"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:205
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:206
+msgid "Normal 400"
+msgstr "正常 400"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:204
+msgid "Book 300 Italic"
+msgstr "Book 300 斜体"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:203
+msgid "Book 300"
+msgstr "Book 300"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:202
+msgid "Light 200 Italic"
+msgstr "细体 200 斜体"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:201
+msgid "Light 200"
+msgstr "细体 200"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:200
+msgid "Ultra-Light 100 Italic"
+msgstr "超细 100 斜体"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:198
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:199
+msgid "Ultra-Light 100"
+msgstr "超细 100"
+
+#. translators: The title.
+#: inc/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:64
+msgid "Customizing &#9656; %s"
+msgstr "正在自定义 &#9656; %s"
+
+#: inc/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:61
+msgid "Customizing"
+msgstr "正在自定义"
+
+#. translators: %1$s represents the field ID where the error occurs. %2%s is
+#. buttonset/image.
+#: inc/kirki/field/class-kirki-field-radio.php:37
+msgid "Error in field %1$s. The \"mode\" argument has been deprecated since Kirki v0.8. Use the \"radio-%2$s\" type instead."
+msgstr "字段 %1$s 错误. 模块参数在 Kirki v0.8 版本已被弃用. 使用 \"radio-%2$s\" 类型替换"
+
+#: inc/kirki/field/class-kirki-field-color.php:52
+msgid "Do not use \"alpha\" as an argument in color controls. Use \"choices[alpha]\" instead."
+msgstr "不要使用“alpha”作为颜色控制的实际参数。使用choices[alpha] 替换。"
+
+#: inc/kirki/deprecated/functions.php:19
+msgid "%1$s or %2$s"
+msgstr "%1$s 或者 %2$s"
+
+#: inc/kirki/core/class-kirki.php:237
+msgid "Kirki fields should not be added on customize_register. Please add them directly, or on init."
+msgstr "Kirki字段不应该添加到 customize_register，请将它们直接添加主题或者初始化。"
+
+#: inc/kirki/core/class-kirki-init.php:289
+msgid "We detected you're using Kirki_Init::get_variables(). Please use Kirki_Util::get_variables() instead."
+msgstr "我们发现您正在使用 Kirki_Init::get_variables() ，请使用 Kirki_Util::get_variables() 替换。"
+
+#. translators: The field ID where the error occurs.
+#. translators: The field ID where the error occurs.
+#: inc/kirki/core/class-kirki-field.php:498
+#: inc/kirki/core/class-kirki-field.php:509
+msgid "\"output\" invalid format in field %s. The \"output\" argument should be defined as an array of arrays."
+msgstr "“输出”无效的格式在字段 %s. “输出”参数应该被定义为一个数组的数组。"
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: inc/kirki/core/class-kirki-field.php:375
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr "“partial_refresh”无效的条目在字段 %s"
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: inc/kirki/core/class-kirki-field.php:358
+msgid "Typo found in field %s - \"theme_mods\" vs \"theme_mod\""
+msgstr "字段 %s 发现输入错误 - \"theme_mods\" 对比 \"theme_mod\""
+
+#. translators: %1$s represents the field ID where the error occurs. %2$s is
+#. the URL in the documentation site.
+#. translators: %1$s represents the field ID where the error occurs. %2$s is
+#. the URL in the documentation site.
+#: inc/kirki/core/class-kirki-field.php:257
+#: inc/kirki/core/class-kirki-field.php:267
+msgid "Config not defined for field %1$s - See %2$s for details on how to properly add fields."
+msgstr "字段 %1$s 没有配置定义-查看 %2$s 详情如何正确添加字段。"
+
+#. translators: %s represents the field ID where the error occurs.
+#: inc/kirki/core/class-kirki-field.php:248
+msgid "Typo found in field %s - setting instead of settings."
+msgstr "字段 %s 发现输入错误 - setting 而不是 settings。"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:213
+msgid "Margin Bottom"
+msgstr "边缘底部"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:205
+msgid "Margin Top"
+msgstr "边缘顶部"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:195
+msgid "Line-Through"
+msgstr "删除线"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:194
+msgid "Overline"
+msgstr "上划线"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:193
+msgid "Underline"
+msgstr "下划线"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:189
+msgid "Text Decoration"
+msgstr "文本修饰"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:180
+#: inc/kirki/controls/php/class-kirki-control-typography.php:196
+msgid "Initial"
+msgstr "初始化"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:179
+msgid "Lowercase"
+msgstr "小写字母"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:178
+msgid "Uppercase"
+msgstr "大写字母"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:177
+msgid "Capitalize"
+msgstr "印刷体"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:176
+#: inc/kirki/controls/php/class-kirki-control-typography.php:192
+msgid "None"
+msgstr "None"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:173
+msgid "Text Transform"
+msgstr "文本转换"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:163
+msgid "Justify"
+msgstr "Justify"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:139
+#: inc/kirki/controls/php/class-kirki-control-typography.php:181
+#: inc/kirki/controls/php/class-kirki-control-typography.php:197
+msgid "Inherit"
+msgstr "Inherit"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:134
+msgid "Text Align"
+msgstr "文本对齐"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:93
+msgid "Variant"
+msgstr "多样"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:87
+msgid "Backup Font"
+msgstr "备份字体"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:83
+#: inc/kirki/controls/php/class-kirki-control-typography.php:88
+msgid "Select Font Family"
+msgstr "选择字体"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:82
+msgid "Font Family"
+msgstr "字体"
+
+#: inc/kirki/controls/php/class-kirki-control-switch.php:56
+#: inc/kirki/field/class-kirki-field-switch.php:40
+msgid "Off"
+msgstr "关"
+
+#: inc/kirki/controls/php/class-kirki-control-switch.php:52
+#: inc/kirki/field/class-kirki-field-switch.php:39
+msgid "On"
+msgstr "开"
+
+#: inc/kirki/controls/php/class-kirki-control-slider.php:67
+msgid "Reset"
+msgstr "重置"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:419
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:421
+msgid "Change File"
+msgstr "更改文件"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:419
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:423
+msgid "Add File"
+msgstr "添加文件"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:387
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:389
+msgid "Change Image"
+msgstr "改变图片"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:387
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:391
+msgid "Add Image"
+msgstr "添加图片"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:376
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:381
+msgid "No Image Selected"
+msgstr "没有已选择的图片"
+
+#. translators: %s represents the number of rows we're limiting the repeater to
+#. allow.
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:227
+msgid "Limit: %s rows"
+msgstr "限制:%s 的行"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:121
+msgid "Select a Page"
+msgstr "选择一个页面"
+
+#. translators: %s represents the label of the row.
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:86
+msgid "Add new %s"
+msgstr "添加新的 %s"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:77
+msgid "row"
+msgstr "行"
+
+#: inc/kirki/controls/views/image.php:40
+#: inc/kirki/field/class-kirki-field-image.php:53
+msgid "Choose image"
+msgstr "选择图像"
+
+#: inc/kirki/controls/views/image.php:38
+#: inc/kirki/field/class-kirki-field-image.php:51
+msgid "No image selected"
+msgstr "没有已选择的图片"
+
+#: inc/kirki/controls/views/image.php:35
+#: inc/kirki/field/class-kirki-field-image.php:48
+msgid "Change image"
+msgstr "改变图片"
+
+#: inc/kirki/controls/views/image.php:34 inc/kirki/controls/views/image.php:39
+#: inc/kirki/field/class-kirki-field-image.php:47
+#: inc/kirki/field/class-kirki-field-image.php:52
+msgid "Select image"
+msgstr "选择图像"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:136
+msgid "Width"
+msgstr "宽度"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:135
+msgid "Spacing"
+msgstr "间距"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:137
+msgid "Height"
+msgstr "高度"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:134
+msgid "Size"
+msgstr "大小"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:133
+#: inc/kirki/controls/php/class-kirki-control-typography.php:151
+msgid "Center"
+msgstr "居中"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:132
+#: inc/kirki/controls/php/class-kirki-control-typography.php:157
+#: inc/kirki/field/class-kirki-field-spacing.php:35
+msgid "Right"
+msgstr "右边"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:131
+#: inc/kirki/controls/php/class-kirki-control-typography.php:145
+#: inc/kirki/field/class-kirki-field-spacing.php:34
+msgid "Left"
+msgstr "左边"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:130
+#: inc/kirki/field/class-kirki-field-spacing.php:33
+msgid "Bottom"
+msgstr "底部"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:129
+#: inc/kirki/field/class-kirki-field-spacing.php:32
+msgid "Top"
+msgstr "顶部"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:128
+#: inc/kirki/controls/php/class-kirki-control-typography.php:126
+msgid "Word Spacing"
+msgstr "字间距"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:127
+#: inc/kirki/controls/php/class-kirki-control-typography.php:118
+msgid "Letter Spacing"
+msgstr "字符间距"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:126
+msgid "Font Style"
+msgstr "字体样式"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:125
+#: inc/kirki/controls/php/class-kirki-control-typography.php:110
+msgid "Line Height"
+msgstr "行高"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:124
+msgid "Font Weight"
+msgstr "字体粗细"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:123
+#: inc/kirki/controls/php/class-kirki-control-typography.php:102
+msgid "Font Size"
+msgstr "字体大小"
+
+#: inc/kirki/controls/php/class-kirki-control-dimension.php:41
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:138
+msgid "Invalid Value"
+msgstr "无效值"
+
+#: inc/kirki/controls/php/class-kirki-control-base.php:137
+msgid "Google Fonts"
+msgstr "谷歌字体"
+
+#: inc/kirki/controls/php/class-kirki-control-base.php:136
+msgid "Standard Fonts"
+msgstr "标准字体"
+
+#: inc/kirki/controls/php/class-kirki-control-base.php:134
+#: inc/kirki/controls/views/image.php:36
+#: inc/kirki/field/class-kirki-field-image.php:49 inc/meta-boxes.php:37
+msgid "Default"
+msgstr "默认的"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:119
+msgid "Fixed"
+msgstr "固定"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:116
+msgid "Scroll"
+msgstr "滚动"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:113
+msgid "Background Attachment"
+msgstr "背景附件"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:106
+msgid "Auto"
+msgstr "自动"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:103
+msgid "Contain"
+msgstr "包含"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:100
+msgid "Cover"
+msgstr "封面"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:97
+msgid "Background Size"
+msgstr "背景的大小"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:91
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:122
+msgid "Center Bottom"
+msgstr "中下"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:90
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:121
+msgid "Center Center"
+msgstr "放在中央"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:89
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:120
+msgid "Center Top"
+msgstr "中上"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:88
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:119
+msgid "Right Bottom"
+msgstr "右下"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:87
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:118
+msgid "Right Center"
+msgstr "右中"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:86
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:117
+msgid "Right Top"
+msgstr "右上"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:85
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:116
+msgid "Left Bottom"
+msgstr "左下"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:84
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:115
+msgid "Left Center"
+msgstr "左中"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:83
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:114
+msgid "Left Top"
+msgstr "左上"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:81
+msgid "Background Position"
+msgstr "背景位置"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:75
+msgid "Repeat Vertically"
+msgstr "垂直重复"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:74
+msgid "Repeat Horizontally"
+msgstr "水平重复"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:73
+msgid "Repeat All"
+msgstr "全部重复"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:72
+msgid "No Repeat"
+msgstr "无重复"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:70
+msgid "Background Repeat"
+msgstr "背景重复"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:63
+#: inc/kirki/controls/php/class-kirki-control-base.php:135
+msgid "Select File"
+msgstr "选择文件"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:62
+#: inc/kirki/controls/php/class-kirki-control-base.php:133
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:386
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:418
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:443
+#: inc/kirki/controls/views/image.php:37
+#: inc/kirki/field/class-kirki-field-image.php:50
+msgid "Remove"
+msgstr "移除"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:59
+#: inc/kirki/controls/php/class-kirki-control-base.php:132
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:408
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:413
+msgid "No File Selected"
+msgstr "没有选中的文件"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:54
+msgid "Background Image"
+msgstr "背景图像"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:48
+msgid "Background Color"
+msgstr "背景颜色"
+
+#: inc/demo-config.php:29
+msgid "Cenote Fashion"
+msgstr "Cenote 时尚版"
+
+#: inc/customizer/options/options-typography.php:44
+msgid "Heading"
+msgstr "标题"
+
+#: inc/customizer/options/options-typography.php:13
+msgid "Body"
+msgstr "Body"
+
+#: inc/customizer/options/options-social.php:58
+msgid "Social Link URL"
+msgstr "社交链接 URL"
+
+#: inc/customizer/options/options-social.php:53
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/customizer/options/options-social.php:52
+msgid "Yelp"
+msgstr "Yelp"
+
+#: inc/customizer/options/options-social.php:51
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/customizer/options/options-social.php:50
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer/options/options-social.php:49
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/customizer/options/options-social.php:48
+msgid "Quora"
+msgstr "Quora"
+
+#: inc/customizer/options/options-social.php:47
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer/options/options-social.php:46
+msgid "Medium"
+msgstr "Medium"
+
+#: inc/customizer/options/options-social.php:45
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customizer/options/options-social.php:44
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer/options/options-social.php:43
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/customizer/options/options-social.php:42
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer/options/options-social.php:41
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/customizer/options/options-social.php:40
+msgid "DeviantArt"
+msgstr "DeviantArt"
+
+#: inc/customizer/options/options-social.php:39
+msgid "Delicious"
+msgstr "Delicious"
+
+#: inc/customizer/options/options-social.php:38
+msgid "CodePen"
+msgstr "CodePen"
+
+#: inc/customizer/options/options-social.php:37
+msgid "Blogger"
+msgstr "Blogger"
+
+#: inc/customizer/options/options-social.php:36
+msgid "Behance"
+msgstr "Behance"
+
+#: inc/customizer/options/options-social.php:32
+msgid "Social Icon"
+msgstr "社交网络图标"
+
+#: inc/customizer/options/options-social.php:17
+msgid "Social Profile"
+msgstr "社交网络简介"
+
+#: inc/customizer/options/options-social.php:11
+msgid "Add Social Profile"
+msgstr "增加社交网络简介"
+
+#: inc/customizer/options/options-single.php:63
+msgid "Enable Related Posts"
+msgstr "启用相关文章"
+
+#: inc/customizer/options/options-single.php:52
+msgid "Enable Author Box"
+msgstr "启用作者框"
+
+#: inc/customizer/options/options-post-ribbon.php:28
+#: inc/customizer/options/options-post-ribbon.php:53
+#: inc/customizer/options/options-post-slider.php:52
+#: inc/customizer/options/options-single.php:26
+msgid "Categories"
+msgstr "分类"
+
+#: inc/customizer/options/options-single.php:13
+msgid "Single Post Content Order"
+msgstr "文章内容的顺序"
+
+#: inc/customizer/options/options-page.php:13
+msgid "Page Content Order"
+msgstr "页面内容的顺序"
+
+#: inc/customizer/options/options-layout.php:62
+msgid "Page Layout"
+msgstr "页面布局"
+
+#: inc/customizer/options/options-layout.php:45
+msgid "Single Post Layout"
+msgstr "文章布局"
+
+#: inc/customizer/options/options-layout.php:28
+msgid "Archive/Blog Layout"
+msgstr "归档/博客布局"
+
+#: inc/customizer/options/options-layout.php:13
+msgid "Site Layout"
+msgstr "网站布局"
+
+#: inc/customizer/options/options-header.php:137
+msgid "Enable Search Icon"
+msgstr "启用搜索图标"
+
+#: inc/customizer/options/options-header.php:121
+msgid "Header Layout"
+msgstr "头部布局"
+
+#: inc/customizer/options/options-header.php:110
+msgid "Enable Sticky Header"
+msgstr "启用置顶头部"
+
+#: inc/customizer/options/options-header.php:32
+msgid "Menu"
+msgstr "菜单"
+
+#: inc/customizer/options/options-header.php:24
+msgid "Header Top Item Order"
+msgstr "头部顶部项目顺序"
+
+#: inc/customizer/options/options-header.php:13
+msgid "Enable Header Top Bar"
+msgstr "启用头部顶部栏"
+
+#: inc/customizer/options/options-header-media.php:114
+msgid "Button URL"
+msgstr "按钮 URL"
+
+#: inc/customizer/options/options-header-media.php:89
+msgid "Button Text"
+msgstr "按钮文字"
+
+#: inc/customizer/options/options-header-media.php:64
+msgid "Text"
+msgstr "文本"
+
+#: inc/customizer/options/options-header-media.php:24
+msgid "Header Media Layout"
+msgstr "页眉媒体布局"
+
+#: inc/customizer/options/options-header-media.php:13
+msgid "Enable media info box"
+msgstr "启用媒体信息框"
+
+#: inc/customizer/options/options-footer.php:28
+msgid "Enable Back To Top"
+msgstr "启用返回顶部"
+
+#: inc/customizer/options/options-footer.php:13
+msgid "Footer Style"
+msgstr "页脚样式"
+
+#: inc/customizer/options/options-color.php:13
+msgid "Primary Color"
+msgstr "主体颜色"
+
+#: inc/customizer/options/options-breadcrumb.php:13
+msgid "Enable Breadcrumbs"
+msgstr "启用面包屑导航"
+
+#: inc/customizer/options/options-archive.php:78
+#: inc/customizer/options/options-page.php:25
+#: inc/customizer/options/options-single.php:29
+msgid "Content"
+msgstr "内容"
+
+#: inc/customizer/options/options-archive.php:77
+#: inc/customizer/options/options-header-media.php:39
+#: inc/customizer/options/options-page.php:23
+#: inc/customizer/options/options-single.php:27
+msgid "Title"
+msgstr "标题"
+
+#: inc/customizer/options/options-archive.php:76
+#: inc/customizer/options/options-single.php:28
+msgid "Meta Tags"
+msgstr "元标签"
+
+#: inc/customizer/options/options-archive.php:75
+#: inc/customizer/options/options-page.php:24
+#: inc/customizer/options/options-single.php:25
+msgid "Thumbnail"
+msgstr "缩略图"
+
+#: inc/customizer/options/options-archive.php:65
+#: inc/customizer/options/options-header.php:25
+#: inc/customizer/options/options-page.php:14
+#: inc/customizer/options/options-single.php:14
+#: inc/customizer/options/options-social.php:12
+msgid "Drag & Drop items to re-arrange the order"
+msgstr "拖拽项目重新排序"
+
+#: inc/customizer/options/options-archive.php:64
+msgid "Post Content Order"
+msgstr "文章内容顺序"
+
+#: inc/customizer/options/options-archive.php:51
+#: inc/customizer/options/options-single.php:40
+msgid "Enable Drop Cap"
+msgstr "启用首字下沉"
+
+#: inc/customizer/options/options-archive.php:34
+msgid "3"
+msgstr "3"
+
+#: inc/customizer/options/options-archive.php:33
+msgid "2"
+msgstr "2"
+
+#: inc/customizer/options/options-archive.php:29
+msgid "Post Column"
+msgstr "文章栏目"
+
+#: inc/customizer/options/options-archive.php:13
+msgid "Archive/Blog Style"
+msgstr "归档/博客风格"
+
+#: inc/customizer/kirki-customizer.php:147
+#: inc/customizer/options/options-archive.php:79
+#: inc/customizer/options/options-page.php:26
+#: inc/customizer/options/options-single.php:30
+msgid "Footer"
+msgstr "页脚"
+
+#: inc/customizer/kirki-customizer.php:129
+msgid "Single Post"
+msgstr "文章"
+
+#: inc/customizer/kirki-customizer.php:120
+#: template-parts/pagination/pagination.php:27
+msgid "Page"
+msgstr "页面"
+
+#: inc/customizer/kirki-customizer.php:111
+msgid "Archive/Blog"
+msgstr "归档/博客"
+
+#: inc/customizer/kirki-customizer.php:102
+msgid "Typography"
+msgstr "排版"
+
+#: inc/customizer/kirki-customizer.php:93
+msgid "Layout"
+msgstr "布局"
+
+#: inc/customizer/kirki-customizer.php:84
+msgid "Breadcrumbs"
+msgstr "面包屑导航"
+
+#: inc/customizer/kirki-customizer.php:66
+#: inc/kirki/controls/php/class-kirki-control-typography.php:221
+msgid "Color"
+msgstr "颜色"
+
+#: inc/customizer/kirki-customizer.php:57
+msgid "Header"
+msgstr "头部"
+
+#: inc/customizer/kirki-customizer.php:48
+msgid "Top Header Bar"
+msgstr "顶端头部栏"
+
+#: inc/customizer/kirki-customizer.php:39
+msgid "Social"
+msgstr "社交网络"
+
+#: inc/customizer/kirki-customizer.php:32
+msgid "Theme Options"
+msgstr "主题选项"
+
+#: inc/compatibility/class-breadcrumb-trail.php:814
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/compatibility/class-breadcrumb-trail.php:786
+#: inc/compatibility/class-breadcrumb-trail.php:1226
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/compatibility/class-breadcrumb-trail.php:785
+#: inc/compatibility/class-breadcrumb-trail.php:853
+#: inc/compatibility/class-breadcrumb-trail.php:1224
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/compatibility/class-breadcrumb-trail.php:784
+#: inc/compatibility/class-breadcrumb-trail.php:813
+#: inc/compatibility/class-breadcrumb-trail.php:852
+#: inc/compatibility/class-breadcrumb-trail.php:879
+#: inc/compatibility/class-breadcrumb-trail.php:1222
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/compatibility/class-breadcrumb-trail.php:767
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/compatibility/class-breadcrumb-trail.php:749
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/compatibility/class-breadcrumb-trail.php:731
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/compatibility/class-breadcrumb-trail.php:288
+msgid "Week %s"
+msgstr "周 %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/compatibility/class-breadcrumb-trail.php:286
+msgid "Minute %s"
+msgstr "分钟 %s"
+
+#. Translators: %s is the page number.
+#: inc/compatibility/class-breadcrumb-trail.php:284
+msgid "Comment Page %s"
+msgstr "评论页面 %s"
+
+#. Translators: %s is the page number.
+#: inc/compatibility/class-breadcrumb-trail.php:282
+msgid "Page %s"
+msgstr "页面 %s"
+
+#. Translators: %s is the search query.
+#: inc/compatibility/class-breadcrumb-trail.php:280
+msgid "Search results for: %s"
+msgstr "搜索结果: %s"
+
+#: inc/compatibility/class-breadcrumb-trail.php:278
+msgid "Archives"
+msgstr "归档"
+
+#: inc/compatibility/class-breadcrumb-trail.php:277
+msgid "404 Not Found"
+msgstr "404 未找到"
+
+#: inc/compatibility/class-breadcrumb-trail.php:276
+msgid "Home"
+msgstr "首页"
+
+#: inc/compatibility/class-breadcrumb-trail.php:275
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "面包屑导航"
+
+#: inc/compatibility/class-breadcrumb-trail.php:274
+msgid "Browse:"
+msgstr "浏览："
+
+#: header.php:32
+msgid "Skip to content"
+msgstr "跳到内容"
+
+#: functions.php:240
+msgid "Add widgets here to show on footer 4."
+msgstr "添加小部件显示在页脚4。"
+
+#: functions.php:238
+msgid "Footer 4"
+msgstr "页脚4"
+
+#: functions.php:228
+msgid "Add widgets here to show on footer 3."
+msgstr "添加小部件显示在页脚3。"
+
+#: functions.php:226
+msgid "Footer 3"
+msgstr "页脚3"
+
+#: functions.php:216
+msgid "Add widgets here to show on footer 2."
+msgstr "添加小部件显示在页脚2。"
+
+#: functions.php:214
+msgid "Footer 2"
+msgstr "页脚2"
+
+#: functions.php:204
+msgid "Add widgets here to show on footer 1."
+msgstr "添加小部件显示在页脚1。"
+
+#: functions.php:202
+msgid "Footer 1"
+msgstr "页脚1"
+
+#: functions.php:192
+msgid "Add widgets here."
+msgstr "添加小部件。"
+
+#: functions.php:190
+msgid "Sidebar"
+msgstr "侧边栏"
+
+#: functions.php:56
+msgid "Header Top"
+msgstr "页首顶部"
+
+#: functions.php:55
+msgid "Primary"
+msgstr "主要的"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s 个评论 在 &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "一个回复在 &ldquo;%1$s&rdquo;"
+
+#: 404.php:22
+msgid "Go back to Home"
+msgstr "回到首页"
+
+#: 404.php:22
+msgid "Try searching or "
+msgstr "尝试搜索或"
+
+#: 404.php:18
+msgid "Sorry, but nothing exists here."
+msgstr "对不起,这里空空如也。"
+
+#. Author URI of the theme
+msgid "https://themegrill.com"
+msgstr "https://themegrill.com"
+
+#. Author of the theme
+msgid "Themegrill"
+msgstr "Themegrill"
+
+#. Theme URI of the theme
+msgid "https://themegrill.com/themes/cenote/"
+msgstr "https://themegrill.com/themes/cenote/"
